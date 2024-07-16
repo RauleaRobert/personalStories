@@ -1,0 +1,5 @@
+Ma numesc Victor, azi am avut prima zi de summer practice la BearingPoint, guys are cool, Roberto ne-a pus sa lucram cu git-ul doar din terminal, acum e prima oara cand lucrez cu VIM, one step ahead to be a 10x developer mega software engineering architect staff principal mega director
+
+V2. Additionally, azi dimineata am stat si ne-am cunoscut mai bine, am spart gheata, am lunch-uit impreuna si am mancat ingetata, colegii cu caresunt la practice in viitor vor fi colegii mei de proiect cu care voi lucra, urmeaza sa facem chestii faine impreuna
+
+v3. Ce mai vream sa facem azi, e sa impartim rolurile la viitorul proiect, vreau sa fac Backend cu NestJS, dar inainte de asta mai invat un pic de Angular sa inteleg flow-ul mai bine"   
