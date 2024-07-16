@@ -2,4 +2,8 @@ Ma numesc Victor, azi am avut prima zi de summer practice la BearingPoint, guys 
 
 V2. Additionally, azi dimineata am stat si ne-am cunoscut mai bine, am spart gheata, am lunch-uit impreuna si am mancat ingetata, colegii cu caresunt la practice in viitor vor fi colegii mei de proiect cu care voi lucra, urmeaza sa facem chestii faine impreuna
 
-v3. Ce mai vream sa facem azi, e sa impartim rolurile la viitorul proiect, vreau sa fac Backend cu NestJS, dar inainte de asta mai invat un pic de Angular sa inteleg flow-ul mai bine"   
+v3. Ce mai vream sa facem azi, e sa impartim rolurile la viitorul proiect, vreau sa fac Backend cu NestJS, dar inainte de asta mai invat un pic de Angular sa inteleg flow-ul mai bine" 
+
+Elena:
+q1: de ce ai ales nestJs?
+q2: de ce vrei sa fii mega software architect?
