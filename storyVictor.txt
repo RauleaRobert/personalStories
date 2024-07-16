@@ -6,7 +6,7 @@ v3. Ce mai vream sa facem azi, e sa impartim rolurile la viitorul proiect, vreau
 
 Elena:
 q1: de ce ai ales nestJs?
-r1: cel mai popular framework de backend pe js 
+r1: cel mai popular framework de backend pe js, pe langa express, nest vine cu o structura bine formata, ceea ce nu are express 
 
 q2: de ce vrei sa fii mega software architect?
 r2: jk :)) dar nah, nustiu, scopul principal e sa fiu un dev bun, deja unde ma duce cariera nu conteaza, nustiu, poate ma fac just a contractor in viitor, poate un corporate guy,acm doar explorez oportunitatile
