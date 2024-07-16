@@ -6,11 +6,17 @@ v3. Ce mai vream sa facem azi, e sa impartim rolurile la viitorul proiect, vreau
 
 Elena:
 q1: de ce ai ales nestJs?
+r1: cel mai popular framework de backend pe js 
+
 q2: de ce vrei sa fii mega software architect?
+r2: jk :)) dar nah, nustiu, scopul principal e sa fiu un dev bun, deja unde ma duce cariera nu conteaza, nustiu, poate ma fac just a contractor in viitor, poate un corporate guy,acm doar explorez oportunitatile
+
 v3. Ce mai vream sa facem azi, e sa impartim rolurile la viitorul proiect, vreau sa fac Backend cu NestJS, dar inainte de asta mai invat un pic de Angular sa inteleg flow-ul mai bine"
 
 
 Silviu
 Question 1: Cum ti sa parut prima zi din intership?
+Answer 1: Mi s-a parut fine, am facut cunsostinta express cu tine, super repede :)
 
 Question 2: Este frumos la Sibiu? =)) 
+Answer 2: Da, dar din cate am vazut nu prea ai ce face. 
